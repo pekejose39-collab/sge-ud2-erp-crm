@@ -40,3 +40,12 @@ Modalidad (instalación local / nube): Nube exclusiva
 Módulos principales: Sales Cloud, Service Cloud, Marketing Cloud, etc
 Requisitos: Para implementación en Servidor: N/A . Navegador web: Google Chrome, Microsoft Edge, Mozilla Firefox o Apple Safari. Conexión a Internet: Conexión estable de banda ancha. Dispositivos móviles: iOS o Android mediante la aplicación oficial Salesforce Mobile.
 
+# Fe de erratas del tema
+
+## Clasificación de Fat Free CRM como CRM Propietario
+En la diapositiva «Soluciones CRM: Libres y Propietarias», ubica Fat Free CRM bajo la sección de CRM Propietarios
+Fat Free CRM es un software de código abierto y completamente libre (Open Source), distribuido bajo la licencia MIT. No es una solución propietaria.
+
+## Origen y desarrollo comunitario de SuiteCRM.
+En la diapositiva «Soluciones CRM: Libres y Propietarias», señala que SuiteCRM fue «Desarrollado por la comunidad SugarCRM».
+SuiteCRM no fue desarrollado por la comunidad de SugarCRM, sino que nació como un fork (bifurcación del código fuente) impulsado y mantenido originalmente por la empresa SalesAgility cuando SugarCRM decidió abandonar su versión de código abierto .
