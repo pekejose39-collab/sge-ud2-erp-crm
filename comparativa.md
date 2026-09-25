@@ -13,7 +13,7 @@ En el modelo de negocio actual, la edición Community es la versión básica, ac
 
 # Seccion 3: Fichas técnicas
 
-## ERPNext
+## [ERPNext](https://frappe.io/erpnext)
 Licencia Exacta: GNU General Public License v3 (GPLv3)
 Versión Vigente: Versión 15 (rama estable de producción)
 Lenguaje del servidor: Python
@@ -22,7 +22,7 @@ Modalidad (instalación local / nube): Ambas modalidades
 Módulos principales:Contabilidad y Finanzas Ventas y CRM Compras y Cadena de Suministro, etc.
 Requisitos: Sistema Operativo: Linux, Mínimo 2 núcleos, Memoria RAM: Mínimo 4 GB,mínimo 20 GB de disco, dependencias de software: Python 3.10+, Node.js 18+, MariaDB 10.6+, Redis, Nginx y Supervisor.
 
-## Microsoft Dynamics 365
+## [Microsoft Dynamics 365](https://learn.microsoft.com/es-es/dynamics365/)
 Licencia Exacta: Propietaria / Comercial
 Versión Vigente: Dynamics 365
 Lenguaje del servidor: C# para la lógica de negocio y extensiones en Dataverse/FO, X++ y AL
@@ -31,7 +31,7 @@ Modalidad (instalación local / nube): Ambas modalidades
 Módulos principales: ERP y CRM
 Requisitos: Cloud/SaaS y On-Premise
 
-## Salesforce
+## [Salesforce](https://www.salesforce.com/es/)
 Licencia Exacta: Propietaria / Comercial
 Versión Vigente: Salesforce Customer 360
 Lenguaje del servidor: Apex e SOQL/SOSL
@@ -39,3 +39,4 @@ SGBD compatibles: Gestor de base de datos multitenant propietario basado interna
 Modalidad (instalación local / nube): Nube exclusiva
 Módulos principales: Sales Cloud, Service Cloud, Marketing Cloud, etc
 Requisitos: Para implementación en Servidor: N/A . Navegador web: Google Chrome, Microsoft Edge, Mozilla Firefox o Apple Safari. Conexión a Internet: Conexión estable de banda ancha. Dispositivos móviles: iOS o Android mediante la aplicación oficial Salesforce Mobile.
+
